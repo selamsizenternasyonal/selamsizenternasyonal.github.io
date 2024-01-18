@@ -1,2 +1,2 @@
-source: page/
 timezone: Turkey
+exclude: README.md
